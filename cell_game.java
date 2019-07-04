@@ -1,4 +1,5 @@
 /* Berrio Galindo, Alvaro */
+/* García Vázquez, Sara */
 import java.util.Scanner;
  
 public class cell_game {
