@@ -1,8 +1,7 @@
 /* Berrio Galindo, Alvaro */
-/* Garcia Vazquez, Sara */
 import java.util.Scanner;
  
-public class alvberr {
+public class cell_game {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int[][] matriz = new int[8][8];
